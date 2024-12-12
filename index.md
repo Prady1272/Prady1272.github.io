@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year Ph.D. student at [UMass Amherst](https://www.umass.edu), advised by [Prof. Evangelos Kalogerakis](https://kalo-ai.github.io). Broadly I am interested in 3D object functionality understanding, motion prediction, and reconstruction. I received my bachelor's in Computer Science from UMass Amherst. In my free time I like to play racquet sports like squash and tennis.
+I am a Ph.D. student at [UMass Amherst](https://www.umass.edu), advised by [Prof. Evangelos Kalogerakis](https://kalo-ai.github.io). Broadly I am interested in 3D object functionality understanding, motion prediction, and reconstruction. I received my bachelor's in Computer Science from UMass Amherst. In my free time I like to play racquet sports like squash and tennis.
 
 <!-- ## Research Interests
 
