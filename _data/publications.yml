@@ -1,6 +1,20 @@
 main:
 
 
+
+
+  - title: 	GEOPARD Geometric Pretraining for Articulation Prediction in 3D Shapes
+    authors: Pradyumn Goyal, Dmitry Petrov, Sheldon Andrews, Yizhak Ben-Shabat, Hsueh-Ti Derek Liu, Evangelos Kalogerakis
+    conference_short:  #MICCAI
+    conference: Proceedings of ICCV 2025.
+    pdf: https://arxiv.org/pdf/2504.02747
+    code: #https://github.com/MrGiovanni/ContinualLearning
+    bibtex: #https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/GEOPARD_teaser.png
+    page: https://prady1272.github.io/GEOPARD/
+    notes: #Early Accept
+
+
   - title: ShapeWords Guiding Text-to-Image Synthesis with 3D Shape-Aware Prompts
     authors: Dmitry Petrov, Pradyumn Goyal, Divyansh Shivashok, Yuanming Tao, Melinos Averkiou, Evangelos Kalogerakis
     conference_short:  #MICCAI
