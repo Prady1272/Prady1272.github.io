@@ -2,6 +2,17 @@ main:
 
 
 
+  - title: "BLARM: Animating 3D Objects from Video via Blending LAtent Rigid Motion Primitives"
+    authors: Pradyumn Goyal, Yizhak Ben-Shabat, Hsueh-Ti Derek Liu, Haomiao Jiang, Snehasish Mukherjee, Kyle Spence, Mark Stauber, Evangelos Kalogerakis, Yunze Zeng
+    conference_short:  #MICCAI
+    conference: Proceedings of NeurIPS 2026.
+    pdf: https://arxiv.org/pdf/2608.31113
+    code: #https://github.com/MrGiovanni/ContinualLearning
+    bibtex: #https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/BLARM_teaser.webp
+    page: https://prady1272.github.io/BLARM/
+    notes: #Early Accept
+
 
   - title: 	GEOPARD Geometric Pretraining for Articulation Prediction in 3D Shapes
     authors: Pradyumn Goyal, Dmitry Petrov, Sheldon Andrews, Yizhak Ben-Shabat, Hsueh-Ti Derek Liu, Evangelos Kalogerakis
