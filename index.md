@@ -12,7 +12,7 @@ My motivation for research comes from both practical challenges and pure intelle
 
 I received my bachelor's degree in Computer Science from UMass Amherst. Outside research, I enjoy playing squash and tennis.
 
-<strong style="color:#e74d3c">I am looking for a research internship for Summer 2027. Feel free to reach out!</strong>
+<strong style="color:#e74d3c">I am looking for a research internship for Summer 2027.</strong>
 
 ## Experience
 
